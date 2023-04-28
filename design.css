@@ -1,0 +1,117 @@
+* {
+    background-color: white;
+    position: fixed;
+}
+
+.content {
+  border-color: white;
+  box-shadow: 0 0 8px black;
+  width: 600px;
+  height: 500px;
+  margin: 10%;
+  display: flex;
+  border-radius: 8px;
+}
+
+.content #img{
+    width: 220px;
+    height: 200px;
+    left: 18%;
+    top: 28%;
+}
+
+.content #btn{
+    color: white;
+    width: 255px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(226, 105, 39);
+    left: 17%;
+    top: 56%;
+    border-color: rgb(226, 105, 39);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+
+.content #text{
+    left: 15%;
+    font-size: 20px;
+    top: 49%;
+    font-family: Arial;
+
+}
+.content #price{
+    left: 21%;
+    font-size: 15px;
+    top: 52%;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+.content2 {
+    border-color: white;
+    box-shadow: 0 0 8px black;
+    width: 600px;
+    height: 500px;
+    margin: 10%;
+    display: flex;
+    border-radius: 8px;
+    left: 30%;
+  }
+
+  .content2 #img2{
+    width: 220px;
+    height: 200px;
+    left: 48%;
+    top: 28%;
+}
+.content2 #up{
+    left: 50%;
+    font-size: 20px;
+    top: 22%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content2 #text1{
+    left: 45%;
+    font-size: 20px;
+    top: 44%;
+    font-family: Arial;
+
+}
+.content2 #price1{
+    left: 51%;
+    font-size: 15px;
+    top: 47%;
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(226, 105, 39);
+}
+.content2 #ship{
+    left: 48%;
+    font-size: 15px;
+    top: 49%;
+    font-family: Arial;
+}
+.content2 #fee{
+    left: 48%;
+    font-size: 15px;
+    top: 51%;
+    font-family: Arial;
+}
+  
+  .content3 {
+    border-color: white;
+    box-shadow: 0 0 8px black;
+    width: 600px;
+    height: 500px;
+    margin: 10%;
+    display: flex;
+    border-radius: 8px;
+    left: 56%;
+  }
+  
+  
+  
+  
